@@ -3,7 +3,7 @@
 Bienvenue sur mon portfolio web personnel, une vitrine de mon parcours, de mes projets et de mes compétences en développement web.
 Ce site a été entièrement conçu en HTML, CSS et JavaScript, dans une approche moderne et responsive.
 
-Lien du projet : https://monportfolio-davianmbayi.netlify.app/
+Lien du projet : https://mon-portfolio-zeta-three.vercel.app/
 
 Le site présente :
 1. Mes projets récents
