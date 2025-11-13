@@ -26,8 +26,9 @@ JavaScript – Interactions et effets dynamiques (scroll, animations, date autom
 
 Git / GitHub – Gestion de version et hébergement
 
-B. Structure du projet
-.
+B. Structure du projet:
+
+
 ├── index.html             # Page principale du portfolio
 
 ├── style.css              # Feuille de style principale
