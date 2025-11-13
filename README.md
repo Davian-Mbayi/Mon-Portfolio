@@ -28,12 +28,17 @@ Git / GitHub – Gestion de version et hébergement
 
 B. Structure du projet
 .
-├── index.html            # Page principale du portfolio
-├── style.css             # Feuille de style principale
-├── image/                # Images de profil et illustrations
-├── Projet/               # Projets réalisés (ex. Moyenne.html)
-├── Mon CV/               # CV au format PDF
-└── certifications/       # Dossiers contenant les certificats (PDF/PNG)
+├── index.html             # Page principale du portfolio
+
+├── style.css              # Feuille de style principale
+
+├── image/                 # Images de profil et illustrations
+
+├── Projet/                # Projets réalisés (ex. Moyenne.html)
+
+├── Mon CV/                # CV au format PDF
+
+└── certifications/        # Dossiers contenant les certificats (PDF/PNG)
 
 C. Fonctionnalités notables
 
