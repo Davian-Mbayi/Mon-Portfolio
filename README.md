@@ -40,17 +40,18 @@ B. Structure du projet
 
 └── certifications/        # Dossiers contenant les certificats (PDF/PNG)
 
-C. Fonctionnalités notables
+C. Fonctionnalités notables :
 
-Design responsive adapté aux mobiles et tablettes
+1. Design responsive adapté aux mobiles et tablettes
 
-Animations au défilement via Intersection Observer
+2. Animations au défilement via Intersection Observer
 
-Mise à jour automatique de l’année dans le pied de page
+3. Mise à jour automatique de l’année dans le pied de page
 
-Navigation fluide par ancres internes
+4. Navigation fluide par ancres internes
 
-Effet visuel moderne avec ombres, dégradés et transitions
+5. Effet visuel moderne avec ombres, dégradés et transitions
+
 
 D. Auteur
 Davian Mbayi
